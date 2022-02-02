@@ -1,0 +1,86 @@
+[
+    {
+        "name": "niel joubert",
+        "brand": "Grüner Veltliner",
+        "price": 70,
+        "discount": "30% off 3 or more",
+        "image": "https://images.ucook.co.za/images/width=500%7Cencoding=webp/12652bf2-4733-4be5-a912-b52311a6349a.webp"
+    },
+    {
+        "name": "niel joubert",
+        "brand": "Blanc de Noir",
+        "price": 65,
+        "discount": "30% off 3 or more",
+        "image": "https://images.ucook.co.za/images/width=500%7Cencoding=webp/0a21ceeb-093a-4b0d-a3a4-ccd257b64bf2.webp"
+    },
+    {
+        "name": "ROBERTSON WINERY",
+        "brand": "Extra Light Merlot",
+        "price": 60,
+        "discount": "30% off 3 or more",
+        "image": "https://images.ucook.co.za/images/width=500%7Cencoding=webp/c2a88478-21ee-4388-97f5-1303cb3a12c3.webp"
+    },
+    {
+        "name": "ROBERTSON WINERY",
+        "brand": "Sauvignon Blanc",
+        "price": 75,
+        "discount": "30% off 3 or more",
+        "image": "https://images.ucook.co.za/images/width=500%7Cencoding=webp/b610f431-ab77-4847-95fc-2bd3827a5cb1.webp"
+    },
+    {
+        "name": "fat bastard",
+        "brand": "Chenin Blanc",
+        "price": 100,
+        "discount": "30% off 3 or more",
+        "image": "https://images.ucook.co.za/images/width=500%7Cencoding=webp/5dc86ecc-b182-4202-85ca-7d54a22b9f60.webp"
+    },
+    {
+        "name": "fat bastard",
+        "brand": "The Golden Reserve",
+        "price": 130,
+        "discount": "30% off 3 or more",
+        "image": "https://images.ucook.co.za/images/width=500%7Cencoding=webp/77639711-47ab-44d8-b1b7-56e4abaf5251.webp"
+    },
+    {
+        "name": "fat bastard",
+        "brand": "Rosé",
+        "price": 100,
+        "discount": "30% off 3 or more",
+        "image": "https://images.ucook.co.za/images/width=500%7Cencoding=webp/3f20d233-c2c2-4c6b-9a80-a27224c4e3e6.webp"
+    },
+    {
+        "name": "ROBERTSON WINERY",
+        "brand": "chardonnay",
+        "price": 75,
+        "discount": "30% off 3 or more",
+        "image": "https://images.ucook.co.za/images/width=500%7Cencoding=webp/4c2b93c2-a09f-47d8-a07b-d7ef72794ac5.webp"
+    },
+    {
+        "name": "niel joubert",
+        "brand": "Reserve Shiraz",
+        "price": 160,
+        "discount": "30% off 3 or more",
+        "image": "https://images.ucook.co.za/images/width=500%7Cencoding=webp/75943a76-ca56-4cb2-b820-1c515ce78481.webp"
+    },
+    {
+        "name": "niel joubert",
+        "brand": "Sauvignon Blanc",
+        "price": 65,
+        "discount": "30% off 3 or more",
+        "image": "https://images.ucook.co.za/images/width=500%7Cencoding=webp/854118f4-62b3-4f25-8188-64c26043a15c.webp"
+    },
+    {
+        "name": "fat bastard",
+        "brand": "Chardonnay",
+        "price": 100,
+        "discount": "30% off 3 or more",
+        "image": "https://images.ucook.co.za/images/width=500%7Cencoding=webp/670e6921-ecc5-4e38-88f0-f66c176bed27.webp"
+    },
+    {
+        "name": "ROBERTSON WINERY",
+        "brand": "Cabernet Sauvignon",
+        "price": 60,
+        "discount": "30% off 3 or more",
+        "image": "https://images.ucook.co.za/images/width=500%7Cencoding=webp/c5b24589-424d-42ac-8f71-c85b3eaf282e.webp"
+    }
+]
